@@ -1,3 +1,3 @@
 # StudyCase
-* Prueba
-** Prueba 2
+## Prueba
+* Prueba 2
