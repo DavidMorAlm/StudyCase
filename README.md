@@ -1,9 +1,9 @@
 
 # **Redes de computadoras** | Grupo 6A | Sem Ene-Jun
 
-## Study Case
+## Study Case
 
-	![Figure #1. Scenario Topology](/documentation/assets/images/Topology.png "Figure #1. Scenario Topology")
+![Figure #1. Scenario Topology](/documentacion/assets/images/Topology.png "Figure #1. Scenario Topology")
 
 > ### Scenario
 >
