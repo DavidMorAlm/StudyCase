@@ -1,11 +1,16 @@
 
-# **Redes de computadoras** | Grupo 6A | Sem Ene-Jun
+# Redes de computadoras | Grupo 6A | Sem Ene-Jun 2023
 
-## Study Case
+> Integrantes:
+>
+> - Fernando Hernández Domínguez
+> - David Morales Almeida
+
+## **Study Case**
 
 ![Figure #1. Scenario Topology](/documentacion/assets/images/Topology.png "Figure #1. Scenario Topology")
 
-### Scenario
+### **Scenario**
 
 It is a small to mid-size company with corporate offices and a branch. This company contracted a
 service provider for Cloud Computing services in the mode of IaaS for their 250 servers, also the
@@ -14,8 +19,8 @@ the necessary configurations to allow the company to access the company's server
 
 The architecture of the LAN has a 'hierarchical design' (Access, Distribution, Core), which meets the
 design requirements of a fault tolerant network, scalability, QoS, and security.
- 
-#### Will practice and be evaluated in the following skills
+
+#### **Will practice and be evaluated in the following skills**
 
 1. Configuring multiuser topology 
 2. Configuration of initial device settings
